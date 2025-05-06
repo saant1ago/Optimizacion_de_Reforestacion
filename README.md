@@ -46,9 +46,13 @@ México enfrenta una alta tasa de deforestación, impactando ecosistemas, biodiv
 - Número de nodos visitados: 88  
 - Tiempo máximo de ejecución: ~1.7 segundos para 13 polígonos
 
+<img width="486" alt="Image" src="https://github.com/user-attachments/assets/2329e4af-6d55-4144-8827-ebb179c5a452" />
+<img width="509" alt="Image" src="https://github.com/user-attachments/assets/c6459f06-b44f-472b-acbd-ac1cfabc3760" />
+
 ## 📌 Conclusiones
 
 El uso de A\* permitió encontrar soluciones eficientes dadas las limitaciones computacionales. A futuro, se plantea implementar modelos exactos (GAMS) y considerar transporte con carga sobrante para optimizar aún más las rutas.
+
 
 ## 📎 Recursos
 
